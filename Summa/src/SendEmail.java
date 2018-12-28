@@ -24,7 +24,7 @@ public class SendEmail {
 	    	  String sub = "Verizon Site Survey";
 	    	  
 	    	  final String fromEmail = "shyam.hackathon@gmail.com"; //requires valid gmail id
-	          final String password = "HackMe@123"; // correct password for gmail id
+	          final String password = ""; // correct password for gmail id
 	          
 	           
 	          System.out.println("TLSEmail Start");
